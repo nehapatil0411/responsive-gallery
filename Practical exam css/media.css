@@ -1,0 +1,187 @@
+@media(min-width:320px) and (max-width:480px)
+{
+    h1
+    {
+        position:absolute;
+        top:15px;
+        left:170px;
+    }
+    .menubar ul li
+    {
+        padding-right:34px;
+    }
+    .menubar ul li a
+    {
+        font-size:15px;
+    }
+    .Boxes
+    {
+        flex-direction: row;
+    }
+    .box1
+    {
+        margin-top:30px;
+        width: 95%;
+    }
+    .box2
+    {
+        margin-top:30px;
+        width: 95%;
+        
+    }
+    .box3
+    {
+        width:95%;
+        margin-top:30px
+    }
+    .box4
+    {
+        width: 95%;
+        margin-top:30px
+    }
+    .box5
+    {
+
+        width: 95%;
+        margin-top:30px
+    }
+    .box6
+    {
+        width: 95%;
+        margin-top:30px
+    }
+    .box7
+    {
+        width: 95%;
+        margin-top:30px
+    }
+    .box8
+    {
+        width: 95%;
+        margin-top:30px
+    }
+}
+@media(min-width:481px) and (max-width:768px)
+{
+    h1
+    {
+        position:absolute;
+        top:15px;
+        left:335px;
+    }
+    .menubar ul li
+    {
+        padding-right:50px;
+        margin-left:27px;
+    }
+    .menubar ul li a
+    {
+        font-size:17px;
+    }
+    .Boxes
+    {
+        flex-direction: row;
+    }
+    .box1
+    {
+        margin-top:30px;
+        width:48%;
+    }
+    .box2
+    {
+        margin-top:30px;
+        width: 48%;   
+    }
+    .box3
+    {
+        margin-top:30px;
+        width:48%;
+    }
+    .box4
+    {
+        margin-top:30px;
+        width: 48%;   
+    }
+    .box5
+    {
+        margin-top:30px;
+        width:48%;
+    }
+    .box6
+    {
+        margin-top:30px;
+        width: 48%;   
+    }
+    .box7
+    {
+        margin-top:30px;
+        width:48%;
+    }
+    .box8
+    {
+        margin-top:30px;
+        width: 48%;   
+    }
+}
+@media(min-width:769px) and (max-width:1024px)
+{
+    h1
+    {
+        position:absolute;
+        top:15px;
+        left:450px;
+    }
+    .menubar ul li
+    {
+        padding-right:50px;
+        margin-left:55px;
+    }
+    .menubar ul li a
+    {
+        font-size:20px;
+    }
+    .Boxes
+    {
+        flex-direction: row;
+    }
+    .box1
+    {
+        margin-top:30px;
+        width:32%;
+    }
+    .box2
+    {
+        margin-top:30px;
+        width:32%;   
+    }
+    .box3
+    {
+        margin-top:30px;
+        width:32%;
+    }
+    .box4
+    {
+        margin-top:30px;
+        width:32%;
+    }
+    .box5
+    {
+        margin-top:30px;
+        width:32%;   
+    }
+    .box6
+    {
+        margin-top:30px;
+        width:32%;
+    }
+    .box7
+    {
+        margin-top:30px;
+        width:49%;
+    }
+    .box8
+    {
+        margin-top:50px;
+        width:49%;   
+    }
+}
